@@ -12,5 +12,5 @@ public class RequestRegisterExpenseJson
 
     public decimal Amount { get; set; }
 
-    public PaymentsType PaymentType { get; set; }
+    public PaymentType PaymentType { get; set; }
 }

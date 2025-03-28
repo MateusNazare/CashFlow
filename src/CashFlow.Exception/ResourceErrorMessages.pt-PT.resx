@@ -127,9 +127,12 @@
     <value>O montante deve ser maior que zero.</value>
   </data>
   <data name="EXPENSES_CANNOT_FOR_THE_FUTURE" xml:space="preserve">
-    <value>As espesas não podem ser para o futuro.</value>
+    <value>As despesas não podem ser para o futuro.</value>
   </data>
   <data name="UNKNOWN_ERROR" xml:space="preserve">
     <value>Erro desconhecido.</value>
+  </data>
+  <data name="EXPENSE_NOT_FOUND" xml:space="preserve">
+    <value>Despensa não encontrada.</value>
   </data>
 </root>
